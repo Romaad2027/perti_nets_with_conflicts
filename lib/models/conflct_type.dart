@@ -1,0 +1,4 @@
+enum ConflictType {
+  priority,
+  probability,
+}
