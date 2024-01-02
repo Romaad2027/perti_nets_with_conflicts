@@ -109,9 +109,6 @@ class PetriNet {
     for (var place in places) {
       print(place.toString());
     }
-    // for (var transition in transitions) {
-    //   print(transition.toString());
-    // }
   }
 }
 
